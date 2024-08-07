@@ -1,1 +1,1 @@
-deluan/navidrome:0.52.5
+seafileltd/seafile:6.3.4
