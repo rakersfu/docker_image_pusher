@@ -1,1 +1,1 @@
-seafileltd/seafile:6.3.4
+ghcr.io/benphelps/homepage:v0.6.20
