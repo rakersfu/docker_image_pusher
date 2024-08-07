@@ -1,1 +1,2 @@
-diygod/rsshub:latest
+browserless/chrome:latest
+redis:alpine
