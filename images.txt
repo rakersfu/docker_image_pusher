@@ -1,1 +1,1 @@
-xhofe/alist:v3.36.0
+halohub/halo:2.18.0
