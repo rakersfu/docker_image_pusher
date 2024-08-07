@@ -1,1 +1,1 @@
-ghcr.io/benphelps/homepage:latest
+xhofe/alist:v3.36.0
