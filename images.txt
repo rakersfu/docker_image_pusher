@@ -1,1 +1,1 @@
-ghcr.io/benphelps/homepage:v0.6.20
+ghcr.io/benphelps/homepage:latest
