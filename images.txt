@@ -1,1 +1,1 @@
-probezy/cpolar:latest
+ollama/ollama
