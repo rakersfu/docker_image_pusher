@@ -1,2 +1,1 @@
-browserless/chrome:latest
-redis:alpine
+probezy/cpolar:latest
