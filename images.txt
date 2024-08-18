@@ -1,1 +1,1 @@
-registry:2.6
+ghcr.io/logseq/logseq-webapp
