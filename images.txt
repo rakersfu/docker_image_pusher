@@ -1,3 +1,4 @@
-6053537/portainer-ce:latest
-6053537/portainer-ce:2.19.5
-6053537/portainer-ce:2.19.4
+chishin/nginx-proxy-manager-zh:release
+chishin/nginx-proxy-manager-zh:2.11.3
+chishin/nginx-proxy-manager-zh:2.11.2
+chishin/nginx-proxy-manager-zh:2.9.18
