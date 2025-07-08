@@ -1,9 +1,1 @@
-hsuyelin/nas-tools:latest
-lscr.io/linuxserver/nextcloud:latest
-jellyfin/jellyfin:latest
-collabora/code:latest
-mariadb:10.5
-apkdv/siyuan-unlock:v2.10.12
-redis:7.0.9
-jeessy/ddns-go:v4.2.2
-b3log/siyuan:v2.10.16
+ghcr.io/qdm12/ddns-updater
