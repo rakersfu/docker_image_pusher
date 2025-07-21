@@ -1,1 +1,1 @@
-favonia/cloudflare-ddns
+soulteary/remote-hosts-server
