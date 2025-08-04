@@ -1,1 +1,1 @@
-cornworld/vanblog:latest
+libretranslate/libretranslate:latest
