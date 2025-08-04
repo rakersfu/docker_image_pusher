@@ -1,1 +1,1 @@
-owo-network/deeplx:latest
+ghcr.io/owo-network/deeplx:latest
