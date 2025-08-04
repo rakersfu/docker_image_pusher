@@ -1,1 +1,1 @@
-libretranslate/libretranslate:latest
+owo-network/deeplx:latest
