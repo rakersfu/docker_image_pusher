@@ -1,1 +1,1 @@
-ghcr.io/owo-network/deeplx:latest
+libretranslate/libretranslate:v1.5.4
