@@ -1,1 +1,1 @@
-libretranslate/libretranslate:v1.5.4
+cloudflare/cloudflared:latest
