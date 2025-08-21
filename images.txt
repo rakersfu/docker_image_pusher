@@ -1,1 +1,1 @@
-postgres:latest
+hezhijie0327/lobechat:latest
