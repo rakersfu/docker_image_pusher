@@ -1,1 +1,2 @@
-hezhijie0327/lobechat:latest
+nextcloud
+mariadb
