@@ -1,1 +1,1 @@
-neilpang/acme.sh
+ghcr.io/vevc/ubuntu
