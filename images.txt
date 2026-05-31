@@ -1,1 +1,1 @@
-ghcr.io/uncleluogithub/mous
+n8n/n8n:1.117.3
