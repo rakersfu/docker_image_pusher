@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n:1.117.3
+debian:12-slim
